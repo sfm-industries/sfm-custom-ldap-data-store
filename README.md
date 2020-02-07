@@ -9,4 +9,4 @@ The filter value can include values from adapters and/or policy contracts. For e
 
     (&(objectClass=group)(member:1.2.840.113556.1.4.1941:=${DN})(cn=grp-aws-*))
 
-The results are a list of DNs returned in the searchResult field.
+The result is a list of DNs returned in the searchResult field.
